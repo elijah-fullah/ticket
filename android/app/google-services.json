@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715753315737",
+    "project_id": "ticket-b4d7b",
+    "storage_bucket": "ticket-b4d7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715753315737:android:f217f2f475e85c122d8708",
+        "android_client_info": {
+          "package_name": "com.example.ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjrw491yXqbBIXX5BxoFf2anGhz-1pWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
